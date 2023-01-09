@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "65540454438",
+    "project_id": "camera-26b0a",
+    "storage_bucket": "camera-26b0a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65540454438:android:90db738e8a75a065974ee7",
+        "android_client_info": {
+          "package_name": "com.rajkumar.cam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "65540454438-16hcl5rc3jtfbj651ctsp0uj46a3f75d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnmmt626Xmktnpn-HIhBpRhzJEkc4_V8Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "65540454438-16hcl5rc3jtfbj651ctsp0uj46a3f75d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
